@@ -83,6 +83,7 @@ Resources are in English unless prefixed with a language code, e.G.:
 - [DDD by Example](https://leanpub.com/ddd-by-example) - A book on Domain-Driven Design that features Domain Storytelling as a knowledge crunching method.
 - [Communication Patterns](https://communicationpatternsbook.com/) - A book for developers and architects on how to communicate effectively. Features Domain Storytelling as an example for visual communication. 2023, Jacqui Read.
 - [GER] [Domain-driven Transformation](https://dpunkt.de/produkt/domain-driven-transformation/) - Monolithen und Microservices zukunftsfähig machen. Die Methodik nutzt u.a. Domain Storytelling. 2024, Carola Lilienthal, Henning Schwentner.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. 10 languages, offline PWA, marketplace.
 
 ## License
 awesome-domain-storytelling by Stefan Hofer is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
